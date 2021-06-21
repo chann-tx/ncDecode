@@ -131,3 +131,13 @@ SELECT top 10 * FROM  nc..sm_user;
 SELECT top 10 * FROM  nc..sm_userpassword;
 ```
 
+## serialized
+
+```
+request:
+GET /ServiceDispatcherServlet HTTP/1.1
+
+response:
+Content-Type: application/x-java-serialized-object
+```
+
