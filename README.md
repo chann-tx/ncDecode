@@ -93,7 +93,7 @@ bsh.script=cat("./ierp/bin/prop.xml");
 
 ```
 <dataSource>
-<dataSourceName>CIFCO1</dataSourceName>
+<dataSourceName>nc</dataSourceName>
 <oidMark>C2</oidMark>
 <databaseUrl>jdbc:sqlserver://127.0.0.1:1433;database=nc;sendStringParametersAsUnicode=false</databaseUrl>
 <user>nc</user>
