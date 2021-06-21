@@ -127,7 +127,7 @@ bsh.script=cat("./ierp/bin/prop.xml");
 ## query user
 ```
 
-SELECT top 10 * FROM  cifco1.dbo.sm_user;
-SELECT top 10 * FROM  cifco1.dbo.sm_userpassword;
+SELECT top 10 * FROM  nc..sm_user;
+SELECT top 10 * FROM  nc..sm_userpassword;
 ```
 
